@@ -1,2 +1,3 @@
 # AnnoyngPopUps
-PopUps that f*** the player up
+Popups when the player blinks, jumps etc...
+Useful for troll events (Insert troll emoji here)
