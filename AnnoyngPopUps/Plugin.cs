@@ -23,7 +23,6 @@ namespace AnnoyngPopUps
             Player.Shooting += EventHandlers.OnShooting;
             Player.Jumping += EventHandlers.OnJumping;
             Player.TogglingFlashlight += EventHandlers.OnTogglingFlashLight;
-            Log.Debug("Se registrou tudo ta ae ");
 
             base.OnEnabled();
         }

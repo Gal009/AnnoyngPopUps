@@ -47,8 +47,8 @@
     <Reference Include="CommandSystem.Core">
       <HintPath>..\..\..\..\OneDrive\Área de Trabalho\Referencias\CommandSystem.Core.dll</HintPath>
     </Reference>
-    <Reference Include="CustomItems %2810%29">
-      <HintPath>..\..\..\..\OneDrive\Área de Trabalho\Referencias\CustomItems (10).dll</HintPath>
+    <Reference Include="CustomItems">
+      <HintPath>..\..\..\..\OneDrive\Área de Trabalho\CustomItems-6.0.1\CustomItems\bin\Debug\CustomItems.dll</HintPath>
     </Reference>
     <Reference Include="DissonanceVoip">
       <HintPath>..\..\..\..\OneDrive\Área de Trabalho\Referencias\DissonanceVoip.dll</HintPath>

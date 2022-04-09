@@ -11,7 +11,6 @@ namespace AnnoyngPopUps
         public string MessageThatAppearsWhenSomeoneShoots { get; set; } = "AAAAAAAAAAAAAA";
         [Description("The message that appears when someone jumps")]
         public string MessageThatAppearsWhenSomeonJumps { get; set; } = "You got mail";
-
         [Description("The message that appears when someone toggles the flashlight")]
         public string MessageThatAppearsWhenSomeoneTogglesTheFlashlight { get; set; } = "To use the flashlight you need to recharge the battery with 10$!";
     }
